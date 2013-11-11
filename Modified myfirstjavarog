@@ -1,0 +1,33 @@
+package myGitHub;
+
+////		https://raw.github.com/rgholami/Hello-World/master/README.md
+
+//public class myfirstjavaprog {
+
+	/**
+	 * @param args
+	 */
+//	public static void main(String[] args) {
+//		
+
+//	}
+
+//}
+//Hello-World
+//===========
+
+//create a new repository Hello World- 11-11-2013
+
+class myfirstjavaprog
+{  
+        public static void main(String args[])
+        {
+           System.out.println("Hello World! is tested on local Eclipse-Juno on 11-11-2013" +
+           		" JDK1.7.0_03");
+        }
+}
+
+//Test: Run as Java Application
+//Hello World!
+// revised and tested.
+//Hello World! is tested on local Eclipse-Juno on 11-11-2013 JDK1.7.0_03
